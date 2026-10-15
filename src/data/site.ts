@@ -84,6 +84,5 @@ export const faqs = [
   { q: '¿Qué incluyen el dominio y el hosting?', a: 'Tu dirección web propia (por ejemplo, minegocio.com) y el alojamiento de la página. Nos encargamos de configurarlo todo y de mantenerlo.' },
   { q: '¿Tengo que tener algo preparado?', a: 'Solo los datos de tu negocio, tus servicios y, si las tienes, algunas fotos. De lo demás nos ocupamos nosotros.' },
   { q: '¿Cómo funciona el soporte NFC y QR?', a: 'Colocas el soporte en tu mostrador. Tu cliente acerca el móvil o escanea el código y llega directo a tu ficha de Google para dejar su reseña.' },
-  { q: '¿Garantizáis salir el primero en Google?', a: 'No. Nadie puede garantizarlo. Preparamos tu web y tu ficha para que quien te busque encuentre información clara y completa.' },
   { q: '¿Y si necesito un cambio en mi web?', a: 'Escríbenos por WhatsApp y lo vemos. El soporte está incluido en todos los packs.' },
 ];
